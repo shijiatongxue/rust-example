@@ -13,3 +13,10 @@ learn rust by example
 
 分别使用 for、loop、while 打印 3 ~ 10 的斐波那契数列
 
+## httpie
+
+用 rust 实现一个简单的 httpie
+
+## greeting
+
+输入一个人名 `name`，对他说 `count` 次 hello
