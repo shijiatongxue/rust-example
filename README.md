@@ -20,3 +20,7 @@ learn rust by example
 ## greeting
 
 输入一个人名 `name`，对他说 `count` 次 hello
+
+## fake-thumbor
+
+一个 fake 的图片处理服务

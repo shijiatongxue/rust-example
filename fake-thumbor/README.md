@@ -1,0 +1,1 @@
+this example is copy from https://github.com/tyrchen/geektime-rust/tree/master/05_thumbor
